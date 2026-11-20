@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="1200" height="420" role="img" aria-label="Typewriter Intro">
   <defs>
     <linearGradient id="ti-stage" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#12263800"/> <!-- Set 0 transparency -->
-      <stop offset="1" stop-color="#08102000"/> <!-- Set 0 transparency -->
+      <stop offset="0" stop-color="#122638"/> <!-- Set 0 transparency -->
+      <stop offset="1" stop-color="#081020"/> <!-- Set 0 transparency -->
     </linearGradient>
     <filter id="ti-shadow" x="-10%" y="-10%" width="120%" height="130%">
       <feGaussianBlur in="SourceAlpha" stdDeviation="22"/>
@@ -12,7 +12,7 @@
     </filter>
   </defs>
 
-  <rect width="1200" height="420" fill="url(#ti-stage)"/>
+  <rect width="1200" height="430" rx="18" ry="18" fill="url(#ti-stage)"/>
 
   <!-- Terminal window -->
   <g filter="url(#ti-shadow)">
@@ -39,7 +39,7 @@
     <text x="200" y="112" fill="#7ee787">~</text>
     <text x="210" y="112" fill="#7a7f99">$</text>
     <text x="235" y="112" fill="#c9d1d9">whoami --verbose</text>
-    <text x="110" y="138" fill="#c9d1d9">→ John Lamprecht · full-stack &amp; systems-curious engineer · Nanaimo, BC</text>
+    <text x="110" y="138" fill="#c9d1d9">→ John Lamprecht · Full-Stack &amp; Systems-Curious Engineer · Nanaimo, BC</text>
     <text x="110" y="158" fill="#7a7f99">Next.js · TypeScript · Python · PostgreSQL · Redis · Docker · AWS</text>
 
     <!-- Prompt 2 -->
