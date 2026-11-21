@@ -62,7 +62,7 @@
     <text x="235" y="293" fill="#c9d1d9">contact --all</text>
     <text x="110" y="316" fill="#58a6ff">→ JohnLamprecht.com</text>
     <text x="325" y="316" fill="#58a6ff">@JohL99</text>
-    <text x="415" y="316" fill="#58a6ff">in/JohnLamprecht</text>
+    <text x="415" y="316" fill="#58a6ff">in/John-Lamprecht</text>
 
     <!-- Final prompt with cursor -->
     <text x="110" y="345" fill="#a78bfa">john@zsh</text>
