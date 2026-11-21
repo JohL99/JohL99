@@ -38,7 +38,7 @@
     <text x="190" y="112" fill="#7a7f99">:</text>
     <text x="200" y="112" fill="#7ee787">~</text>
     <text x="210" y="112" fill="#7a7f99">$</text>
-    <text x="235" y="112" fill="#c9d1d9">whoami --verbose</text>
+    <text x="235" y="112" fill="#c9d1d9">whoami</text>
     <text x="110" y="138" fill="#c9d1d9">→ John Lamprecht · Full-Stack &amp; Systems-Curious Engineer · Nanaimo, BC</text>
     <text x="110" y="158" fill="#7a7f99">Next.js · TypeScript · Python · PostgreSQL · Redis · Docker · AWS</text>
 
