@@ -49,9 +49,9 @@
     <text x="210" y="185" fill="#7a7f99">$</text>
     <text x="235" y="185" fill="#c9d1d9">cat now.md</text>
     <text x="110" y="208" fill="#fcd34d">## Currently</text>
-    <text x="110" y="226" fill="#c9d1d9">- Leading platform architecture @ Consensus Metals</text><text x="615" y="226" fill="#7a7f99"> (Next.js · Redis · PostgreSQL · AWS)</text>
-    <text x="110" y="246" fill="#c9d1d9">- Automating high-volume PDF quote &amp; email pipelines</text><text x="635" y="246" fill="#7a7f99"> (Python · Flask · Batch)</text>
-    <text x="110" y="266" fill="#c9d1d9">- Building secure brokered file-transfer systems</text><text x="600" y="266" fill="#7a7f99"> (VPN · zero-trust · layered encryption)</text>
+    <text x="110" y="226" fill="#c9d1d9">- Leading platform architecture @ Consensus Metals</text><text x="625" y="226" fill="#7a7f99"> (Next.js · Redis · PostgreSQL · AWS)</text>
+    <text x="110" y="246" fill="#c9d1d9">- Automating high-volume PDF quote &amp; email pipelines</text><text x="645" y="246" fill="#7a7f99"> (Python · Flask · Batch)</text>
+    <text x="110" y="266" fill="#c9d1d9">- Building secure brokered file-transfer systems</text><text x="610" y="266" fill="#7a7f99"> (VPN · zero-trust · layered encryption)</text>
  
 
     <!-- Prompt 3 -->
@@ -61,8 +61,8 @@
     <text x="210" y="293" fill="#7a7f99">$</text>
     <text x="235" y="293" fill="#c9d1d9">contact --all</text>
     <text x="110" y="316" fill="#58a6ff">→ JohnLamprecht.com</text>
-    <text x="325" y="316" fill="#58a6ff">@JohL99</text>
-    <text x="415" y="316" fill="#58a6ff">in/John-Lamprecht</text>
+    <text x="335" y="316" fill="#58a6ff">@JohL99</text>
+    <text x="425" y="316" fill="#58a6ff">in/John-Lamprecht</text>
 
     <!-- Final prompt with cursor -->
     <text x="110" y="345" fill="#a78bfa">john@zsh</text>
